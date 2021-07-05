@@ -3,6 +3,8 @@ Hi, I’m Bradley (8bitpineapple)
 Also refer to my itch.io for game projects I am working on https://8bitpineapple.itch.io/ .
 
 I'm going to experiement with the GoDot game engine and potentially make some open source games for learning/fun.
+I've decided to open a github 2021 since I've just been doing local version control and aught to have opened a github sooner ;).
+
 
 Will also be working on a pretty niche project, e.g. a map for the Discworld Mud (A sort of text based mmo from 1992).
 It's a pretty fun application of Graph Theory, there's around a million or so nodes that relate to a position of the Discworld.
